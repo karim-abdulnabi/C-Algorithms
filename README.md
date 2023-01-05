@@ -1,4 +1,7 @@
 # C-Algorithms
+
+<img src="https://www.investopedia.com/thmb/n4b2twy7L9lZcmsUkMRlRhzjJ88=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/algorithm-8507b849b8ee48e5887fda56916dd037.png">
+
 what is the algorithm in C++ ?
 
 An algorithm is a procedure used for solving a problem or performing a computation. Algorithms act as an exact list of instructions that conduct specified actions step by step in either hardware- or software-based routines. Algorithms are widely used throughout all areas of IT.
